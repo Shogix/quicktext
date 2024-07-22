@@ -20,10 +20,10 @@
         "message": "Choisir le fichier de destination (UTF-8)"
     },
     "extensionDescription": {
-        "message": "Ajoute une barre d’outils à la fenêtre Email Edit afin que les modules de texte puissent être ajoutés facilement et rapidement. Il est également possible d'utiliser des variables telles que [[TO=firstname]]."
+        "message": "Ajoute une barre d’outils à la fenêtre de composition de message afin d'insérer rapidement des modèles de texte. Il est également possible d'utiliser des variables telles que [[TO=firstname]]."
     },
     "fileNotUTF8": {
-        "message": "The selected file does not seem to be UTF-8 encoded and will not loaded correctly. Please select a different file."
+        "message": "Le fichier sélectionné ne semble pas encodé UTF-8 et ne chargera pas correctement. Choisissez un autre fichier."
     },
     "group": {
         "message": "Groupe"
@@ -46,7 +46,7 @@
         "message": "Choisir le fichier à insérer (UTF-8)"
     },
     "insertImage": {
-        "message": "Choose image file to insert"
+        "message": "Choisir le fichier d'image à insérer"
     },
     "metaKey": {
         "message": "Meta"
@@ -73,7 +73,7 @@
         "message": "l"
     },
     "quicktext.accesskey.close": {
-        "message": "c"
+        "message": "e"
     },
     "quicktext.accesskey.communityScripts": {
         "message": "s"
@@ -97,22 +97,22 @@
         "message": "r"
     },
     "quicktext.accesskey.remove": {
-        "message": "v"
+        "message": "p"
     },
     "quicktext.accesskey.resetCounter": {
         "message": "u"
     },
     "quicktext.accesskey.save": {
-        "message": "s"
+        "message": "e"
     },
     "quicktext.accesskey.scripts": {
         "message": "s"
     },
     "quicktext.accesskey.settings": {
-        "message": "n"
+        "message": "s"
     },
     "quicktext.accesskey.templates": {
-        "message": "t"
+        "message": "l"
     },
     "quicktext.accesskeyScripts.export": {
         "message": "x"
@@ -121,7 +121,7 @@
         "message": "m"
     },
     "quicktext.accesskeyTemplate.export": {
-        "message": "e"
+        "message": "x"
     },
     "quicktext.accesskeyTemplate.import": {
         "message": "i"
@@ -160,7 +160,7 @@
         "message": "Ctrl"
     },
     "quicktext.counter.label": {
-        "message": "Counter"
+        "message": "Compteur"
     },
     "quicktext.cursor.label": {
         "message": "Position du curseur"
@@ -214,7 +214,7 @@
         "message": "F8"
     },
     "quicktext.faxnumber.label": {
-        "message": "Fax"
+        "message": "Télécopieur"
     },
     "quicktext.file.label": {
         "message": "Fichier"
@@ -235,10 +235,10 @@
         "message": "Nom complet"
     },
     "quicktext.general.label": {
-        "message": "Générales"
+        "message": "Général"
     },
     "quicktext.getScript.label": {
-        "message": "Community Scripts"
+        "message": "Scripts partagés"
     },
     "quicktext.goToHomepage.label": {
         "message": "Visiter le site Web"
@@ -247,7 +247,7 @@
         "message": "Groupe"
     },
     "quicktext.header.label": {
-        "message": "Header (To, Cc, Bcc)"
+        "message": "En-têtes (Pour, Cc, Cci)"
     },
     "quicktext.help.label": {
         "message": "Aide"
@@ -256,13 +256,13 @@
         "message": "Tél. domicile"
     },
     "quicktext.image.label": {
-        "message": "Embedded HTML image"
+        "message": "Image HTML intégrée"
     },
     "quicktext.import.label": {
         "message": "Importer"
     },
     "quicktext.input.label": {
-        "message": "Input value from user prompt"
+        "message": "Entrez le texte à insérer"
     },
     "quicktext.insertAs.label": {
         "message": "Insérer en"
@@ -274,7 +274,7 @@
         "message": "Insérer un fichier en texte"
     },
     "quicktext.insertfile.label": {
-        "message": "Content from file (quicktext variables will be replaced)"
+        "message": "Contenu à partir d'un fichier (les variables Quicktext seront remplacées)"
     },
     "quicktext.jobtitle.label": {
         "message": "Profession"
@@ -304,10 +304,10 @@
         "message": "Aucun"
     },
     "quicktext.orgatt.label": {
-        "message": "Original attachment info"
+        "message": "Infos des pièces jointes d'origine"
     },
     "quicktext.orgheader.label": {
-        "message": "Original header info"
+        "message": "Infos des en-têtes d'origine"
     },
     "quicktext.other.label": {
         "message": "Autres"
@@ -331,7 +331,7 @@
         "message": "Scripts"
     },
     "quicktext.selection.label": {
-        "message": "Selection"
+        "message": "Sélection"
     },
     "quicktext.settings.label": {
         "message": "Paramètres"
@@ -379,7 +379,7 @@
         "message": "Pour"
     },
     "quicktext.url.label": {
-        "message": "Response from URL"
+        "message": "Réponse à partir d'une URL"
     },
     "quicktext.variables.label": {
         "message": "Variables"
@@ -405,13 +405,13 @@
         "message": "Enregistrement des paramètres"
     },
     "scriptError": {
-        "message": "There was an error in your Quicktext script:"
+        "message": "Il y a une erreur dans votre script Quicktext:"
     },
     "scriptLine": {
-        "message": "Line"
+        "message": "Ligne"
     },
     "scriptNotFound": {
-        "message": "Quicktext script “$P1$” not found!",
+        "message": "Script Quicktext “$P1$” introuvable!",
         "placeholders": {
             "P1": {
                 "content": "$1"
